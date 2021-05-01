@@ -1,0 +1,17 @@
+
+li{
+	list-style-type : none 
+}
+h1{
+	text-align:center;
+	font-style: oblique;
+}
+
+#paragraph{
+	text-align:center;
+}
+
+#hobby{
+	text-align:center;
+	font-weight:bold;
+}
